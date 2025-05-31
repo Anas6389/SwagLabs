@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="12" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-31T15:23:50 IST" name="Default suite" finished-at="2025-05-31T15:27:50 IST" duration-ms="239634">
+    <groups>
+    </groups>
+    <test started-at="2025-05-31T15:23:50 IST" name="Default test" finished-at="2025-05-31T15:27:50 IST" duration-ms="239634">
+      <class name="New.Swablabsssssssssss.Swagtest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:23:51 IST" name="beforeMethod" finished-at="2025-05-31T15:23:58 IST" duration-ms="7306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validlogin()[pri:1, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:23:58 IST" name="validlogin" finished-at="2025-05-31T15:24:09 IST" duration-ms="10887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validlogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:09 IST" name="afterMethod" finished-at="2025-05-31T15:24:10 IST" duration-ms="1012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:10 IST" name="beforeMethod" finished-at="2025-05-31T15:24:12 IST" duration-ms="2544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="invalidusername()[pri:2, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:12 IST" name="invalidusername" finished-at="2025-05-31T15:24:21 IST" duration-ms="8704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidusername -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:21 IST" name="afterMethod" finished-at="2025-05-31T15:24:22 IST" duration-ms="587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:22 IST" name="beforeMethod" finished-at="2025-05-31T15:24:24 IST" duration-ms="2482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="blankusername()[pri:3, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:24 IST" name="blankusername" finished-at="2025-05-31T15:24:33 IST" duration-ms="8597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankusername -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:33 IST" name="afterMethod" finished-at="2025-05-31T15:24:33 IST" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:33 IST" name="beforeMethod" finished-at="2025-05-31T15:24:36 IST" duration-ms="2614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="blankpassword()[pri:4, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:36 IST" name="blankpassword" finished-at="2025-05-31T15:24:45 IST" duration-ms="8676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankpassword -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:45 IST" name="afterMethod" finished-at="2025-05-31T15:24:45 IST" duration-ms="519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:45 IST" name="beforeMethod" finished-at="2025-05-31T15:24:47 IST" duration-ms="2169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bothblank()[pri:5, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:47 IST" name="bothblank" finished-at="2025-05-31T15:24:56 IST" duration-ms="8513" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Wrong message displayed expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Wrong message displayed expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at New.Swablabsssssssssss.Swagtest.bothblank(Swagtest.java:112)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bothblank -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:56 IST" name="afterMethod" finished-at="2025-05-31T15:24:57 IST" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:57 IST" name="beforeMethod" finished-at="2025-05-31T15:24:59 IST" duration-ms="2374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bothinvalid()[pri:6, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:24:59 IST" name="bothinvalid" finished-at="2025-05-31T15:25:08 IST" duration-ms="8712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bothinvalid -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:25:08 IST" name="afterMethod" finished-at="2025-05-31T15:25:09 IST" duration-ms="991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:25:09 IST" name="beforeMethod" finished-at="2025-05-31T15:25:11 IST" duration-ms="2351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="invalidpassword()[pri:7, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:25:11 IST" name="invalidpassword" finished-at="2025-05-31T15:25:20 IST" duration-ms="8672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidpassword -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:25:20 IST" name="afterMethod" finished-at="2025-05-31T15:25:20 IST" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:25:20 IST" name="beforeMethod" finished-at="2025-05-31T15:25:23 IST" duration-ms="2492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="menuclick()[pri:8, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:25:23 IST" name="menuclick" finished-at="2025-05-31T15:25:50 IST" duration-ms="27392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuclick -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:25:50 IST" name="afterMethod" finished-at="2025-05-31T15:25:51 IST" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:25:51 IST" name="beforeMethod" finished-at="2025-05-31T15:26:12 IST" duration-ms="21415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="dropdown()[pri:9, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:26:12 IST" name="dropdown" finished-at="2025-05-31T15:26:24 IST" duration-ms="12086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:26:24 IST" name="afterMethod" finished-at="2025-05-31T15:26:25 IST" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:26:25 IST" name="beforeMethod" finished-at="2025-05-31T15:26:27 IST" duration-ms="2319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Addtocart()[pri:10, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:26:27 IST" name="Addtocart" finished-at="2025-05-31T15:26:55 IST" duration-ms="27466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addtocart -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:26:55 IST" name="afterMethod" finished-at="2025-05-31T15:26:55 IST" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:26:55 IST" name="beforeMethod" finished-at="2025-05-31T15:26:57 IST" duration-ms="2357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="homer()[pri:11, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:26:57 IST" name="homer" finished-at="2025-05-31T15:27:05 IST" duration-ms="7689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homer -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:27:05 IST" name="afterMethod" finished-at="2025-05-31T15:27:06 IST" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:27:06 IST" name="beforeMethod" finished-at="2025-05-31T15:27:08 IST" duration-ms="2461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="productname()[pri:12, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:27:08 IST" name="productname" finished-at="2025-05-31T15:27:32 IST" duration-ms="24170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productname -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:27:32 IST" name="afterMethod" finished-at="2025-05-31T15:27:33 IST" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:27:33 IST" name="beforeMethod" finished-at="2025-05-31T15:27:35 IST" duration-ms="2462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkout()[pri:13, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:27:35 IST" name="checkout" finished-at="2025-05-31T15:27:48 IST" duration-ms="12223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:New.Swablabsssssssssss.Swagtest@70325e14]" started-at="2025-05-31T15:27:48 IST" name="afterMethod" finished-at="2025-05-31T15:27:50 IST" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- New.Swablabsssssssssss.Swagtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
